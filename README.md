@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=1Kishi.1Kishi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I'm+Jacob+Green!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!;+I'm+Jacob+Green!;" />
 </h1>
 
 <h3 align="center">A software developer from Czech Republic </h3>
@@ -70,7 +70,7 @@
 <br/>
 
 <div align="center">
-<a href='https://www.patreon.com/1kishi/' target='_blank'><img height='64' style='border:0px;height:64px;' src='[https://storage.ko-fi.com/cdn/kofi1.png?v=3](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Patreon_logo.svg/1280px-Patreon_logo.svg.png)' border='0' alt='Support me at Patreon' /></a>
+<a href='https://www.patreon.com/1kishi/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Patreon_logo.svg/1280px-Patreon_logo.svg.png' border='0' alt='Support me at Patreon' /></a>
 </div>
 
 <br/>
