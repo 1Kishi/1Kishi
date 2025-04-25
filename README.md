@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on 3D Novel Game **Songbird and Snakes**
+ 🔭 I’m currently working on 3D Novel Game **Songbird and Snakes** (R18)
  
  🌱 I’m currently learning **Python, C++ and Blender**
 
