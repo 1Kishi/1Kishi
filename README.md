@@ -19,7 +19,9 @@ I'm actively building my <strong><a href="https://github.com/1Kishi/portfolio">p
   <img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logo=vite" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=csharp" />
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />
+</p>
 </p>
 
 <p>
