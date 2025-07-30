@@ -67,13 +67,13 @@ I'm actively building my <strong><a href="https://github.com/1Kishi/portfolio">p
 
 ### ⌯⌲ Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jacobgreen-dev)
-- 📬 jacobworkgreen@gmail.com
-- 🌐 [Portfolio](https://github.com/1Kishi/portfolio) (live version coming soon)
+-  [LinkedIn](https://www.linkedin.com/in/jacobgreen-dev)
+-  jacobworkgreen@gmail.com
+-  [Portfolio](https://github.com/1Kishi/portfolio) (live version coming soon)
 
 ---
 
-### ✨ Learning Mindset
+### ✮ Learning Mindset
 
 > Outside of certifications, I learn through YouTube, personal projects, Udemy, forums, and AI tools.  
 > I try to understand not just how code works — but why it's written that way.
