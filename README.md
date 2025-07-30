@@ -1,17 +1,17 @@
-<h1 align="center">👋 Hello, I'm Jacob (1Kishi)</h1>
+<h1 align="center">•ᴗ• Hello, I'm Jacob (1Kishi)</h1>
 
 <p align="center">Junior Web Developer | Networking Learner | Cybersecurity Explorer</p>
 
 ---
 
-### 🎯 About Me
+### ⋆｡°·☁︎ About Me
 
 I'm a self-taught developer from the Czech Republic combining web development, networking, and cybersecurity fundamentals.  
 I'm actively building my <strong><a href="https://github.com/1Kishi/portfolio">portfolio</a></strong>, learning Git, backend technologies, and network architecture.
 
 ---
 
-### 💡 Learning & Working With
+### ˗ˏˋ ★ ˎˊ˗ Learning & Working With
 
 <p>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" />
@@ -33,27 +33,27 @@ I'm actively building my <strong><a href="https://github.com/1Kishi/portfolio">p
 
 ---
 
-### 🛠️ Projects
+### 🗀 Projects
 
-- 🚀 [Portfolio Website](https://github.com/1Kishi/portfolio) — React + Tailwind, deep dive pages, interactive CV, GitHub stats, dark mode
-- 🌐 [Network Config Project](https://github.com/1Kishi/network-config) — LAN setup and routing simulation (demo/dummy)
-- 🔐 Ongoing TryHackMe path — learning recon, OSINT, basic web vulns
+- 🗀 [Portfolio Website](https://github.com/1Kishi/portfolio) — React + Tailwind, deep dive pages, interactive CV, GitHub stats, dark mode
+- 🗀 [Network Config Project](https://github.com/1Kishi/network-config) — LAN setup and routing simulation (demo/dummy)
+- 🗀 Ongoing TryHackMe path — learning recon, OSINT, basic web vulns
 
 ---
 
-### 📈 GitHub Stats
+### 🕮 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1Kishi&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Kishi&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-> 🧩 Many of my projects are still private or in preparation.  
+> ⓘ Many of my projects are still private or in preparation.  
 > I'm actively learning and starting to use GitHub more to publish and share my progress.
 
 ---
 
-### 📚 Certifications & Goals
+### 🗎 Certifications & Goals
 
 | Category       | Certificate                         | Status     |
 |----------------|--------------------------------------|------------|
@@ -65,7 +65,7 @@ I'm actively building my <strong><a href="https://github.com/1Kishi/portfolio">p
 
 ---
 
-### 📫 Contact
+### ⌯⌲ Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jacobgreen-dev)
 - 📬 jacobworkgreen@gmail.com
