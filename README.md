@@ -35,7 +35,7 @@ I'm actively building my portfolio, learning Git, backend technologies, and netw
 
 ### 🗀 Projects
 
-- 🗀 [Portfolio Website]([https://github.com/1Kishi/portfolio](https://github.com/1Kishi/Portfolio-Web)) - React + Tailwind, deep dive pages, interactive CV, GitHub stats, dark mode
+- 🗀 [Portfolio Website](https://github.com/1Kishi/Portfolio-Web) - React + Tailwind, deep dive pages, interactive CV, GitHub stats, dark mode
 - 🗀 [Network Config Project](https://github.com/1Kishi/network-config) - LAN setup and routing simulation (demo/dummy)
 - 🗀 Ongoing TryHackMe path - learning recon, OSINT, basic web vulns
 
