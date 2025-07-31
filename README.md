@@ -7,7 +7,7 @@
 ### ⋆｡°·☁︎ About Me
 
 I'm a developer from the Czech Republic combining web development, networking, and cybersecurity fundamentals.  
-I'm actively building my <strong><a href="(https://github.com/1Kishi/Portfolio-Web)">portfolio</a></strong>, learning Git, backend technologies, and network architecture.
+I'm actively building my <strong><a href="[https://github.com/1Kishi/Portfolio-Web](https://github.com/1Kishi/Portfolio-Web)">portfolio</a></strong>, learning Git, backend technologies, and network architecture.
 
 ---
 
