@@ -69,7 +69,7 @@ I'm actively building my portfolio, learning Git, backend technologies, and netw
 
 -  [LinkedIn](https://www.linkedin.com/in/jacobgreen-dev)
 -  jacobworkgreen@gmail.com
--  [Portfolio](https://github.com/1Kishi/portfolio) (live version coming soon)
+-  [Portfolio](https://green-jacob-portfolio.vercel.app/portfolio) (live version coming soon)
 
 ---
 
