@@ -6,7 +6,7 @@
 
 ### ⋆｡°·☁︎ About Me
 
-I'm a self-taught developer from the Czech Republic combining web development, networking, and cybersecurity fundamentals.  
+I'm a developer from the Czech Republic combining web development, networking, and cybersecurity fundamentals.  
 I'm actively building my <strong><a href="https://github.com/1Kishi/portfolio">portfolio</a></strong>, learning Git, backend technologies, and network architecture.
 
 ---
